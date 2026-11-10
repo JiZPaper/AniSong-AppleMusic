@@ -8,6 +8,7 @@ To dane, z których korzysta sekcja „Piosenki przewodnie” w aplikacji [Paper
 
 ## W skrócie
 
+<!-- stats -->
 Stan na wersję `20261110-d811aa2eb306`:
 
 | | |
@@ -16,6 +17,7 @@ Stan na wersję `20261110-d811aa2eb306`:
 | Znalezione w Apple Music | 26 946 |
 | Potwierdzono brak w Apple Music | 11 290 |
 | Anime | 9 959 |
+<!-- /stats -->
 
 ## Plik
 
