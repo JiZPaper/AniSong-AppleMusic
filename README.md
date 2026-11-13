@@ -9,14 +9,14 @@ This is the dataset behind the theme song section of the [PaperVN](https://paper
 ## At a Glance
 
 <!-- stats -->
-As of version `20261111-6e5a6212ee0c`:
+As of version `20261114-d676a2a67db3`:
 
 | | |
 |---|---|
-| Songs | 38,243 |
-| Found on Apple Music | 26,953 |
-| Confirmed not on Apple Music | 11,290 |
-| Anime | 9,969 |
+| Songs | 38,333 |
+| Found on Apple Music | 27,016 |
+| Confirmed not on Apple Music | 11,317 |
+| Anime | 9,971 |
 <!-- /stats -->
 
 ## File
