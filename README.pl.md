@@ -9,12 +9,12 @@ To dane, z których korzysta sekcja „Piosenki przewodnie” w aplikacji [Paper
 ## W skrócie
 
 <!-- stats -->
-Stan na wersję `20261121-c1e0dd354c4d`:
+Stan na wersję `20261123-14d7d3efe4fd`:
 
 | | |
 |---|---|
-| Utwory | 38 413 |
-| Znalezione w Apple Music | 27 118 |
+| Utwory | 38 414 |
+| Znalezione w Apple Music | 27 119 |
 | Potwierdzono brak w Apple Music | 11 295 |
 | Anime | 9 973 |
 <!-- /stats -->

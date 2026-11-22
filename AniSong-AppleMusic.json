@@ -1,4 +1,4 @@
-{"version":"20261121-c1e0dd354c4d","format":1,"songs":{
+{"version":"20261123-14d7d3efe4fd","format":1,"songs":{
 "-50355":[6776191970,1518762680,"Go Girls","ORKAS","https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/c5/ac/95c5ac5b-5653-934d-4fe2-76ab500eb799/a73f561b-f5cb-4f69-b04f-bc00013dbd94.jpg/600x600bb.jpg"],
 "-50346":[6819292410,334391255,"I'm in you","影山ヒロノブ","https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/84/7f/0d847fcb-1733-21b9-0682-b114698a3956/4562409330738.png/600x600bb.jpg"],
 "-50345":[1840861007,1326700688,"Noisllietar","yuiko","https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/07/50/f0075096-c711-04e6-f6e5-a30514134152/198704738203_Cover.jpg/600x600bb.jpg"],
@@ -38411,7 +38411,8 @@
 "86958":[6807527228,6774635403,"何以 (《李熊猫》动画片尾曲)","九渊 & 盖盖Nyan","https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/7b/59/187b59dd-1b08-339f-3e7a-f76be323ce3b/4896043132770.jpg/600x600bb.jpg"],
 "86959":[6807526971,6800289997,"Nebula (《李熊猫》动画片头曲)","R!N/Gemie & 盖盖Nyan","https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/7b/59/187b59dd-1b08-339f-3e7a-f76be323ce3b/4896043132770.jpg/600x600bb.jpg"],
 "86968":[6772106991,6772104910,"无名之诗 (《放开那个女巫》动画片尾曲)","严世涛","https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/39/7e/71397ef9-a6db-fd01-bfc7-cf6cbf305819/4896016392538.jpg/600x600bb.jpg"],
-"86969":[6816049623,1705665721,"DREAM OF BUTTERFLY","FZMZ","https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/42/3a/73423a50-aea7-8a24-afa3-c3be0c6383aa/4547366855968.jpg/600x600bb.jpg"]
+"86969":[6816049623,1705665721,"DREAM OF BUTTERFLY","FZMZ","https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/42/3a/73423a50-aea7-8a24-afa3-c3be0c6383aa/4547366855968.jpg/600x600bb.jpg"],
+"86978":[6815570499,1326067929,"ぴ","ナナヲアカリ","https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/43/38/da4338f2-0768-d2a6-8bdf-ad509a3ff30c/4547366850659.jpg/600x600bb.jpg"]
 },"inserts":{
 "1":[-20270,-20271,-20272,-20273,-20274,-20275,-20276,-20277,-20278,-20279,-20280,-20281,-20282,-34110,-43001,-43002,-46884],
 "5":[-997,-998,-999,-1000,-22304,-44721],
@@ -50321,7 +50322,7 @@
 "61564":[84930,84931],
 "61566":[83962],
 "61567":[84446,84447],
-"61578":[86542,86823,86940],
+"61578":[86542,86823,86940,86978],
 "61579":[83743],
 "61587":[83345,83346],
 "61592":[83787],
