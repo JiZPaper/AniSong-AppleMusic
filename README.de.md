@@ -9,14 +9,14 @@ Dies ist der Datensatz hinter dem Bereich „Titelsongs“ der App [PaperVN](htt
 ## Überblick
 
 <!-- stats -->
-Stand Version `20261124-328ac4743656`:
+Stand Version `20261125-3111465a1d10`:
 
 | | |
 |---|---|
-| Titel | 38.418 |
-| Auf Apple Music gefunden | 27.123 |
+| Titel | 38.422 |
+| Auf Apple Music gefunden | 27.127 |
 | Nachweislich nicht auf Apple Music | 11.295 |
-| Anime | 9.973 |
+| Anime | 9.974 |
 <!-- /stats -->
 
 ## Datei
