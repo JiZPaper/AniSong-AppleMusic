@@ -1,4 +1,4 @@
-{"version":"20261125-3111465a1d10","format":1,"songs":{
+{"version":"20261126-8963612d6ae0","format":1,"songs":{
 "-50355":[6776191970,1518762680,"Go Girls","ORKAS","https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/c5/ac/95c5ac5b-5653-934d-4fe2-76ab500eb799/a73f561b-f5cb-4f69-b04f-bc00013dbd94.jpg/600x600bb.jpg"],
 "-50346":[6819292410,334391255,"I'm in you","影山ヒロノブ","https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/84/7f/0d847fcb-1733-21b9-0682-b114698a3956/4562409330738.png/600x600bb.jpg"],
 "-50345":[1840861007,1326700688,"Noisllietar","yuiko","https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/07/50/f0075096-c711-04e6-f6e5-a30514134152/198704738203_Cover.jpg/600x600bb.jpg"],
@@ -38420,7 +38420,9 @@
 "86979":[6824346928,825626345,"撑天(《第一序列S2》动画片头曲)","张赫宣","https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/ad/e7/28ade7db-1715-1300-9721-1a373535b362/6933014763385.jpg/600x600bb.jpg"],
 "86981":[6812151891,1803998087,"Escape","Kis-My-Ft2","https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/7e/80/d17e80c8-1f92-cf08-941c-70d5b07a1b0b/ANTCD-A0000021122.jpg/600x600bb.jpg"],
 "86982":[6812151891,1803998087,"Escape","Kis-My-Ft2","https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/7e/80/d17e80c8-1f92-cf08-941c-70d5b07a1b0b/ANTCD-A0000021122.jpg/600x600bb.jpg"],
-"86983":[1880033833,1696262485,"ワールズエンドトリガー","青木陽菜","https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/d0/5b/efd05bec-64f1-73cd-4486-7873106990f7/823375026792_Cover.jpg/600x600bb.jpg"]
+"86983":[1880033833,1696262485,"ワールズエンドトリガー","青木陽菜","https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/d0/5b/efd05bec-64f1-73cd-4486-7873106990f7/823375026792_Cover.jpg/600x600bb.jpg"],
+"86984":[1747680968,1747680969,"Piece of my world","Night Ravens","https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/6e/ee/026eeebb-3d2d-c939-eb43-8f70b62849c4/4534530152206.jpg/600x600bb.jpg"],
+"86985":0
 },"inserts":{
 "1":[-20270,-20271,-20272,-20273,-20274,-20275,-20276,-20277,-20278,-20279,-20280,-20281,-20282,-34110,-43001,-43002,-46884],
 "5":[-997,-998,-999,-1000,-22304,-44721],
@@ -50171,6 +50173,7 @@
 "60326":[83129,83130,83131],
 "60334":[81886,82124],
 "60347":[82928,82929],
+"60348":[86984,86985],
 "60371":[83310,84088],
 "60377":[81792,82213],
 "60378":[82616,83016],
